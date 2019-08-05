@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15128794160",
+    "firebase_url": "https://niconetapp.firebaseio.com",
+    "project_id": "niconetapp",
+    "storage_bucket": "niconetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15128794160:android:0add6de8057c6ba2",
+        "android_client_info": {
+          "package_name": "com.example.niconetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15128794160-3sbck0pgiarm81c1q902fsjrd8flu1lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.niconetapp",
+            "certificate_hash": "3d3ed3d0c2cc183c4396904a99336c0c6c4cc751"
+          }
+        },
+        {
+          "client_id": "15128794160-viq2fgfv2mufkd6119lnf9ffjm7osdag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC2OU5QTLprjRn1jYAwYSmXg87d5RSF4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15128794160-viq2fgfv2mufkd6119lnf9ffjm7osdag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

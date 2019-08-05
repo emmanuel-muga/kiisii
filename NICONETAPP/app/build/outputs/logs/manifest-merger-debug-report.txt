@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\452c9902b57cdefe0cbb49d715885d31\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9f53e6a133f205247719729f45a589a4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\6081041298cb809d45e029c8aff09d13\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\c65da507903245a075c5e6721c702932\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\def571a023d76e836329ee188eaf47bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ab8836f867405751d82699e40c148948\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\1a76429f074ca9c4ec12468f3efc1c7a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4ec0bf9f1850dc1cb3c8920e98832fe5\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\d981cf0be049b30da5ad60a1a8e5771f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\695b68684fcf27867d45da6e1ab183a9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e4a0d6d87ea968c62d7c0aac26cb5651\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\fc1859df6390c11333b58e00b481d9ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\b742af9590dee3b4c2788df7b946c6b0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\a89a5ddca39d082e93e7d19e171a3ba1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7c0923605d803933531f2cc431d2fb85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e4725465ff9a2174d593325c07ff72f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4fe5f5f2e5709d17541811f58bef41aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9dba8e0befd589b887c029806b4dab0f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e526699b2abe4a35cb483cb60b1f5e7e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\99c0d49206bfc9910b5c81d0e42bc628\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\47dc8a492d5da36443f91e0c4600c92f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\aef372b59d7ad83285f201207ffd758a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\761edc8d789fc4f2f0dd4b9947ef4e4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ee0ab2c8a506981e5bb490cf9452d626\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\bf578cb03f284131d3164137c1b64f02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\11abba91fbb71d1624dd682601a77c7e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4e86d258c6e585ea4c9982e15ee02427\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\61171ea576fe7cc176acb7a71e99da46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\46b6f2f42621eb5bef1f01c43a638f55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\beb62003707155c78bb74303b674932d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\3d6d20674d6472f02cd6732a06ba2c8b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9c862f02c0e4fbfa38294f804f904c1a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\931e7cb4df103dfc97e5cf40effb813d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\84a076feb431c099ac695968d43ac51a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\0b89b54cb83a4ae5d75fea957465b012\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e9b1b96b997954618d20f67e560aa8de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f32dedbac8ebdc5cce30526451f292c1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e79802f7ab8849808262e6eb3b3c52de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\6ba060740cc07b601ca468282384c2e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f4b82764b1e312ee4be8189c37adfab8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\5e371f6c3ffae696650aeac399c20927\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\c303146d72abcabf9107c0f628101240\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\452c9902b57cdefe0cbb49d715885d31\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\452c9902b57cdefe0cbb49d715885d31\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9f53e6a133f205247719729f45a589a4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9f53e6a133f205247719729f45a589a4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ab8836f867405751d82699e40c148948\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ab8836f867405751d82699e40c148948\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\1a76429f074ca9c4ec12468f3efc1c7a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\1a76429f074ca9c4ec12468f3efc1c7a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4ec0bf9f1850dc1cb3c8920e98832fe5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4ec0bf9f1850dc1cb3c8920e98832fe5\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4e86d258c6e585ea4c9982e15ee02427\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4e86d258c6e585ea4c9982e15ee02427\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\beb62003707155c78bb74303b674932d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\beb62003707155c78bb74303b674932d\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4e86d258c6e585ea4c9982e15ee02427\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.niconetapp.homeActivity
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:14:9-17:68
+	android:label
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:16:13-56
+	android:theme
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:15:13-41
+activity#com.example.niconetapp.home
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:18:9-42
+	android:name
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:18:19-39
+activity#com.example.niconetapp.registerActivity
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:19:19-51
+activity#com.example.niconetapp.MainActivity
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\452c9902b57cdefe0cbb49d715885d31\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\452c9902b57cdefe0cbb49d715885d31\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9f53e6a133f205247719729f45a589a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9f53e6a133f205247719729f45a589a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\6081041298cb809d45e029c8aff09d13\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\6081041298cb809d45e029c8aff09d13\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\c65da507903245a075c5e6721c702932\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\c65da507903245a075c5e6721c702932\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\def571a023d76e836329ee188eaf47bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\def571a023d76e836329ee188eaf47bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ab8836f867405751d82699e40c148948\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ab8836f867405751d82699e40c148948\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\1a76429f074ca9c4ec12468f3efc1c7a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\1a76429f074ca9c4ec12468f3efc1c7a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4ec0bf9f1850dc1cb3c8920e98832fe5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4ec0bf9f1850dc1cb3c8920e98832fe5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\d981cf0be049b30da5ad60a1a8e5771f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\d981cf0be049b30da5ad60a1a8e5771f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\695b68684fcf27867d45da6e1ab183a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\695b68684fcf27867d45da6e1ab183a9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e4a0d6d87ea968c62d7c0aac26cb5651\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e4a0d6d87ea968c62d7c0aac26cb5651\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\fc1859df6390c11333b58e00b481d9ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\fc1859df6390c11333b58e00b481d9ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\b742af9590dee3b4c2788df7b946c6b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\b742af9590dee3b4c2788df7b946c6b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\a89a5ddca39d082e93e7d19e171a3ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\a89a5ddca39d082e93e7d19e171a3ba1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7c0923605d803933531f2cc431d2fb85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7c0923605d803933531f2cc431d2fb85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e4725465ff9a2174d593325c07ff72f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e4725465ff9a2174d593325c07ff72f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4fe5f5f2e5709d17541811f58bef41aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4fe5f5f2e5709d17541811f58bef41aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9dba8e0befd589b887c029806b4dab0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9dba8e0befd589b887c029806b4dab0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e526699b2abe4a35cb483cb60b1f5e7e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e526699b2abe4a35cb483cb60b1f5e7e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\99c0d49206bfc9910b5c81d0e42bc628\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\99c0d49206bfc9910b5c81d0e42bc628\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\47dc8a492d5da36443f91e0c4600c92f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\47dc8a492d5da36443f91e0c4600c92f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\aef372b59d7ad83285f201207ffd758a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\aef372b59d7ad83285f201207ffd758a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\761edc8d789fc4f2f0dd4b9947ef4e4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\761edc8d789fc4f2f0dd4b9947ef4e4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ee0ab2c8a506981e5bb490cf9452d626\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ee0ab2c8a506981e5bb490cf9452d626\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\bf578cb03f284131d3164137c1b64f02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\bf578cb03f284131d3164137c1b64f02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\11abba91fbb71d1624dd682601a77c7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\11abba91fbb71d1624dd682601a77c7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4e86d258c6e585ea4c9982e15ee02427\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4e86d258c6e585ea4c9982e15ee02427\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\61171ea576fe7cc176acb7a71e99da46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\61171ea576fe7cc176acb7a71e99da46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\46b6f2f42621eb5bef1f01c43a638f55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\46b6f2f42621eb5bef1f01c43a638f55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\beb62003707155c78bb74303b674932d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\beb62003707155c78bb74303b674932d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\3d6d20674d6472f02cd6732a06ba2c8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\3d6d20674d6472f02cd6732a06ba2c8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9c862f02c0e4fbfa38294f804f904c1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\9c862f02c0e4fbfa38294f804f904c1a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\931e7cb4df103dfc97e5cf40effb813d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\931e7cb4df103dfc97e5cf40effb813d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\84a076feb431c099ac695968d43ac51a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\84a076feb431c099ac695968d43ac51a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\0b89b54cb83a4ae5d75fea957465b012\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\0b89b54cb83a4ae5d75fea957465b012\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e9b1b96b997954618d20f67e560aa8de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e9b1b96b997954618d20f67e560aa8de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f32dedbac8ebdc5cce30526451f292c1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f32dedbac8ebdc5cce30526451f292c1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e79802f7ab8849808262e6eb3b3c52de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\e79802f7ab8849808262e6eb3b3c52de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\6ba060740cc07b601ca468282384c2e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\6ba060740cc07b601ca468282384c2e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f4b82764b1e312ee4be8189c37adfab8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f4b82764b1e312ee4be8189c37adfab8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\5e371f6c3ffae696650aeac399c20927\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\5e371f6c3ffae696650aeac399c20927\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\c303146d72abcabf9107c0f628101240\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\c303146d72abcabf9107c0f628101240\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\olemugah\AndroidStudioProjects\NICONETAPP\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:29:9-33:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\ce28889b79200420fafcb6c793c3169b\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:10:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\7b29190bd40a0d69bc27b46fba89709e\AndroidManifest.xml:16:17-111
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\01cd0bf2ddac8fb4dd538cb47155ce09\AndroidManifest.xml:31:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\713fb93bdf882dcee37ed5510f49db34\AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\f0ebf656dc55ac4a2fb4e4a4675cb2df\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4ec0bf9f1850dc1cb3c8920e98832fe5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4ec0bf9f1850dc1cb3c8920e98832fe5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\olemugah\.gradle\caches\transforms-2\files-2.1\4ec0bf9f1850dc1cb3c8920e98832fe5\AndroidManifest.xml:24:13-58
